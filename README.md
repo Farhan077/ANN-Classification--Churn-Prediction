@@ -1,7 +1,7 @@
 # ANN-Classification--Churn-Prediction
 
 This is a simple Chrun Prediction application using Python and was coded on Jupyter notebook mostly. The Churn Prediction app follows a simple ANN structure consisting of one hot encoding. The Churn_Modelling.csv is the dataset and contains information about customers and their details.
-If you want to download and try this out, fork the repository or download everything here and in your IDE and then it is extremely important that you first run the requirements.txt file. 
+If you want to download and try this out, fork the repository or download everything here and in your IDE, it is extremely important that you first run the ```requirements.txt``` file. 
 
 # Installing Necessary Libraries
 You can do that using the terminal or command prompt in your IDE and simply run ``` pip install -r requirements.txt ``` and all the necessary libraries and packages should be installed. 
